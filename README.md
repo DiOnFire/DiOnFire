@@ -3,7 +3,6 @@
 ### My projects
 
 - ![Bloomware](https://github.com/TheBreakery/Bloomware) - Minecraft utility mod for anarchy servers.
-- ![RandomSpawn](https://github.com/DiOnFire/RandomSpawn-PMMP) - Plugin for Minecraft PE that adds random respawn points to your server (Genisys Pro).
 
 ### Some statistics :^)
 
