@@ -1,6 +1,8 @@
 # DiOnFire
 
-### My projects
+Hello! 👋
+
+### Projects I'm working on
 
 - ![Bloomware](https://github.com/TheBreakery/Bloomware) - Minecraft utility mod for anarchy servers.
 
