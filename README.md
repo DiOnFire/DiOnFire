@@ -4,8 +4,9 @@ Hello! 👋
 
 ### Projects I'm working on
 
-- ![Bloomware](https://github.com/TheBreakery/Bloomware) - Minecraft utility mod for anarchy servers.
-- ![Ferret](https://github.com/cattyngmd/Ferret) - Another Minecraft utility mod.
+- **![Bloomware](https://github.com/TheBreakery/Bloomware)** - Minecraft utility mod for anarchy servers.
+- **![Ferret](https://github.com/cattyngmd/Ferret)** - Another Minecraft utility mod.
+- **![Microsoft Teams Spammer](https://github.com/DiOnFire/MicrosoftTeamsSpammer)** - A Microsoft Teams conference spammer written with Java and Selenium.
 
 ### Some statistics :^)
 
