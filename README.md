@@ -15,7 +15,7 @@ I'm 16 y.o. developer from Moscow, Russia.
 ## Projects I'm working on
 
 - **![Bloomware](https://github.com/TheBreakery/Bloomware-Lite)** - Minecraft utility mod for anarchy servers [free version].
-- **![Sophie Workspace](https://github.com/sophieproject)** - Ultimate cross-platform workspace for cooperation in teams [now private].
+- **![Sophie Workspace](https://github.com/projectsophie)** - Ultimate cross-platform workspace for cooperation in teams [now private].
 
 ## Archived projects
 
