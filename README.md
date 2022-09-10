@@ -13,7 +13,6 @@ I'm 16 y.o. developer from Moscow, Russia.
 
 ## Projects I'm working on
 
-- **![Bloomware](https://github.com/TheBreakery/Bloomware-Lite)** - Minecraft utility mod for anarchy servers [free version].
 - **![Sophie Workspace](https://github.com/projectsophie)** - Ultimate cross-platform workspace for cooperation in teams [now private].
 
 ## Archived projects
@@ -21,6 +20,7 @@ I'm 16 y.o. developer from Moscow, Russia.
 - **![Kapy Messenger](https://github.com/kapymessenger/Kapy)** - Free and open-source messenger for Android with video/audio calls and fast messages.
 - **![BetterMC](https://github.com/DiOnFire/BetterMC)** - A modern Minecraft launcher written with C# and WPF.
 - **![Microsoft Teams Spammer](https://github.com/DiOnFire/MicrosoftTeamsSpammer)** - A Microsoft Teams conference spammer written with Java and Selenium.
+- **![Bloomware](https://github.com/TheBreakery/Bloomware-Lite)** - Minecraft utility mod for anarchy servers [no longer being developed by me].
 
 ## Technologies
 
