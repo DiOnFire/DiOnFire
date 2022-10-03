@@ -41,7 +41,8 @@ ReactJS, ElectronJS, Gin, FabricMC, FastAPI, WPF, SQL Alchemy, NextUI
 Android, HTML, CSS
 
 ## Some statistics
+![](https://raw.githubusercontent.com/DiOnFire/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/DiOnFire/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-![](https://github-readme-stats.vercel.app/api?username=dionfire&count_private=true&theme=dracula&show_icons=true&include_all_commits=true)  ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionfire&layout=compact&langs_count=10&exclude_repo=MathHelper&theme=dracula)
 
 ![](https://komarev.com/ghpvc/?username=DiOnFire&color=7421af)
