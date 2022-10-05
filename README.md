@@ -26,7 +26,7 @@ I'm 16 y.o. developer from Moscow, Russia.
 
 ### Languages
 
-Java, Python, Kotlin, C#, JS, Go
+Java, Python, Kotlin, C#, JS/TS, Go
 
 ### Databases
 
