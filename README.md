@@ -34,7 +34,7 @@ SQL, MongoDB, Firebase
 
 ### Libraries/frameworks
 
-ReactJS, ElectronJS, Gin, FabricMC, FastAPI, WPF, SQL Alchemy, NextUI
+ReactJS, ElectronJS, Gin, FabricMC, FastAPI, WPF, SQL Alchemy, NextUI, Vite, Mantine
 
 ### Other stuff
 
