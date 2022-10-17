@@ -24,7 +24,6 @@ I'm 16 y.o. developer from Moscow, Russia.
 - **![Bloomberry Discord bot](https://github.com/DiOnFire/Bloomberry-JDA)** - A Discord bot for Bloomware server. No longer supported.
 - **![Blink](https://github.com/DiOnFire/BLink)** - An Android app for interaction with Bloomware API.
 - **![Bloomware Web](https://github.com/DiOnFire/Bloomware-Web)** - First version of Bloomware website (frontend & backend).
-- 
 
 ## Technologies
 
