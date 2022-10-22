@@ -46,6 +46,3 @@ Android, HTML, CSS
 ## Some statistics
 ![](https://raw.githubusercontent.com/DiOnFire/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/DiOnFire/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-
-![](https://komarev.com/ghpvc/?username=DiOnFire&color=7421af)
