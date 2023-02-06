@@ -2,7 +2,7 @@
 
 Hello! 👋
 
-I'm 16 y.o. developer from Moscow, Russia.
+I'm 17 y.o. developer from Moscow, Russia.
 
 ## Spoken languages
 
