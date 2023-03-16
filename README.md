@@ -13,7 +13,8 @@ I'm 17 y.o. developer from Moscow, Russia.
 
 ## Projects I'm working on
 
-- **![Sophie Workspace](https://github.com/projectsophie)** - Ultimate cross-platform workspace for cooperation in teams [now private].
+- **![Sophie Workspace](https://sophie.dionlabs.ru)** - Ultimate cross-platform workspace for cooperation in teams (inspired by Notion).
+- **![Dionlabs ID](https://id.dionlabs.ru)** - Account system for Dionlabs software (including Sophie).
 
 ## Archived projects
 
@@ -33,7 +34,7 @@ Java, Python, Kotlin, C#, JS/TS, Go
 
 ### Databases
 
-SQL, MongoDB, Firebase
+SQLite, MongoDB, Firebase, PostgreSQL
 
 ### Libraries/frameworks
 
@@ -41,7 +42,7 @@ ReactJS, ElectronJS, Gin, FabricMC, FastAPI, WPF, SQL Alchemy, NextUI, Vite, Man
 
 ### Other stuff
 
-Android, HTML, CSS
+Android, HTML, CSS, Docker
 
 ## Some statistics
 ![](https://raw.githubusercontent.com/DiOnFire/github-stats/master/generated/overview.svg#gh-dark-mode-only)
