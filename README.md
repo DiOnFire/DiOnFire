@@ -8,6 +8,7 @@ I'm 17 y.o. developer from Moscow, Russia.
 
 - 🇷🇺 Russian
 - 🇺🇸 English
+- 🇺🇦 Ukrainian
 
 # Programming stuff
 
