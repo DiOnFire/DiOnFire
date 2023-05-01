@@ -16,6 +16,7 @@ I'm 17 y.o. developer from Moscow, Russia.
 
 - **[Sophie Workspace](https://sophie.dionlabs.ru)** - Ultimate cross-platform workspace for cooperation in teams (inspired by Notion).
 - **[Dionlabs ID](https://id.dionlabs.ru)** - Account system for Dionlabs software (including Sophie).
+- **[Bloomware Client](https://bloomware.org)** - Advanced utility mod for Minecraft.
 
 ## Archived projects
 
