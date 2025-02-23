@@ -2,16 +2,7 @@
 
 Hello! 👋
 
-I'm 17 y.o. developer from Moscow, Russia.
-
-## Spoken languages
-
-- 🇷🇺 Russian
-- 🇺🇸 English
-- 🇺🇦 Ukrainian
-- 🇯🇵 A little bit of Japanese
-
-# Programming stuff
+I'm 19 y.o. developer from Moscow, Russia.
 
 ## Projects I'm working on
 
